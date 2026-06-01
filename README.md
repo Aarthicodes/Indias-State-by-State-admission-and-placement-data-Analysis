@@ -9,3 +9,6 @@ The project investigates faculty strength and its relationship with student enro
 It analyzes student performance through pass-out statistics and placement records.
 Data analytics techniques such as data cleaning, exploratory data analysis (EDA), and visualization are used to generate insights.
 The findings help educational institutions, researchers, and policymakers make informed decisions regarding higher education planning and development.
+
+
+Dataset Link: https://data.mendeley.com/datasets/c7rwzpx3ps/1/files/11539022-ad4e-443e-a117-3a9a03a00449
