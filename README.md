@@ -4,7 +4,7 @@ A Comprehensive Analysis of Higher Education Trends in India
 ## Description
 
 This project analyzes higher education trends in India using data from 2013 to 2021. The dataset contains information about institutions, student enrollment, faculty strength, passed students, and placements across different programs and states. The objective is to identify patterns, trends, and relationships among various educational factors through data analysis and visualization.
-Raw Dataset: 
+##Source: Data.mendeley.com https://data.mendeley.com/datasets/c7rwzpx3ps/1/files/11539022-ad4e-443e-a117-3a9a03a00449
 
 ## Getting Started
 
@@ -46,7 +46,7 @@ import seaborn as sns
 url = "https://github.com/Aarthicodes/Indias-State-by-State-admission-and-placement-data-Analysis/raw/refs/heads/main/India_s%20state-by-state%20admission%20and%20placement%20data.xlsx"
 df_refined = pd.read_excel(url, engine="openpyxl")
 
-# Run all cells to execute the analysis
+
 
 ## Help
 Common issues and solutions:
@@ -57,9 +57,9 @@ Common issues and solutions:
 - Restart the runtime if visualizations fail to load.
 
 
-## Authors
+## Author-
 
-Aarthi
+Aarthi.
 Project: A Comprehensive Analysis of Higher Education Trends in India
 
 
