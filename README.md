@@ -37,10 +37,10 @@ pip install pandas numpy matplotlib seaborn
 code blocks for commands
 bash
 # Import required libraries
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
+import pandas as pd.
+import numpy as np.
+import matplotlib.pyplot as plt.
+import seaborn as sns.
 
 # Load dataset
 url = "https://github.com/Aarthicodes/Indias-State-by-State-admission-and-placement-data-Analysis/raw/refs/heads/main/India_s%20state-by-state%20admission%20and%20placement%20data.xlsx"
